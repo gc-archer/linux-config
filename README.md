@@ -37,6 +37,7 @@ i3 Desktop:
   - acpi
   - toilet
   - cava
+  - Document Viewer: Zathura
   - Icons: FontAwesome
   - Font: Overpass
   - Theme Switcher: lxappearance
