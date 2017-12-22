@@ -1,0 +1,21 @@
+! rofi configuration ---------------------------------------------------------
+rofi.location:          	0
+rofi.color-enabled:     	true
+!                       	'background',  'border'
+rofi.color-window:      	argb:85850cb2, argb:85850cb2
+! State:                	'bg',    	   'fg',    'bgalt',  	   'hlbg',  	  'hlfg'
+rofi.color-normal:      	argb:00850cb2, #000000, argb:00850cb2, argb:00850cb2, #fe15bc
+rofi.color-urgent:      	argb:00850cb2, #000000, argb:00850cb2, argb:00850cb2, #fe15bc
+rofi.color-active:      	argb:00850cb2, #000000, argb:00850cb2, argb:00850cb2, #fe15bc
+rofi.separator-style:   	dash
+rofi.fullscreen:        	false
+rofi.padding:           	350
+rofi.hide-scrollbar:   		true
+rofi.line-margin:       	5
+rofi.lines:					3
+rofi.fake-transparency: 	true
+rofi.yoffset:           	0
+rofi.xoffset:           	0
+rofi.width:             	100
+rofi.font: 					Overpass Regular 18
+! end rofi config ------------------------------------------------------------
