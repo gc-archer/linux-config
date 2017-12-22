@@ -1,0 +1,33 @@
+{
+    "name": "TF-Soundwave",
+    "comment": "Custom scheme for the TF Soundwave wallpaper",
+    "foreground-color": "#fe15bc",
+    "background-color": "#000000",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#fe15bc",
+    "highlight-background-color": "#000000",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#fe15bc",
+    "cursor-background-color": "#000000",
+    "use-badge-color": true,
+    "badge-color": "#2e67e4",
+    "palette": [
+        "#000000",
+        "#fe15bc",
+        "#850cb2",
+        "#fe15bc",
+        "#2e67e4",
+        "#850cb2",
+        "#850cb2",
+        "#fe15bc",
+        "#000000",
+        "#fe15bc",
+        "#850cb2",
+        "#fe15bc",
+        "#2e67e4",
+        "#850cb2",
+        "#850cb2",
+        "#fe15bc"
+    ]
+}
