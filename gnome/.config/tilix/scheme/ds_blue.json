@@ -1,0 +1,33 @@
+{
+    "name": "DS-Blue",
+    "comment": "Custom scheme for the DS wallpaper",
+    "foreground-color": "#ffffff",
+    "background-color": "#000000",
+    "use-theme-colors": false,
+    "use-highlight-color": false,
+    "highlight-foreground-color": "#ffffff",
+    "highlight-background-color": "#000000",
+    "use-cursor-color": false,
+    "cursor-foreground-color": "#ffffff",
+    "cursor-background-color": "#000000",
+    "use-badge-color": true,
+    "badge-color": "#1d8fff",
+    "palette": [
+        "#000000",
+        "#e5e5e5",
+        "#1d8fff",
+        "#e5e5e5",
+        "#0000aa",
+        "#0083ff",
+        "#2952e0",
+        "#e5e5e5",
+        "#000000",
+        "#e5e5e5",
+        "#1d8fff",
+        "#e5e5e5",
+        "#0000aa",
+        "#0083ff",
+        "#2952e0",
+        "#e5e5e5"
+    ]
+}
