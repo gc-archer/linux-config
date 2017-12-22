@@ -37,6 +37,8 @@ i3 Desktop:
   - acpi
   - toilet
   - cava
+  - ImageMagick
+  - GIMP
   - Document Viewer: Zathura
   - Icons: FontAwesome
   - Font: Overpass
